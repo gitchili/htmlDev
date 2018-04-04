@@ -6,4 +6,8 @@ var person = [
 
 ];
 
-console.log(age);
+function myFunction() {
+    document.getElementById("App").innerHTML += "Always be codeing!";
+}
+
+myFunction();

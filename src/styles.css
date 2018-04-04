@@ -1,4 +1,17 @@
+/* headStyles */
 
+/* bodySytles */
 body {
   font-family: Helvetica;
 }
+
+.shell {
+  background-color: navy;
+  color: white;
+  padding: 25px;
+  text-align: center;
+ 
+}
+
+/* footerStyles */
+
