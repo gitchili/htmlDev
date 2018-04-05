@@ -5,13 +5,34 @@ body {
   font-family: Helvetica;
 }
 
+.myHead {
+  border-style: solid;
+}
+
 .shell {
+  font-family: Helvetica;
   background-color: navy;
   color: white;
   padding: 25px;
   text-align: center;
  
 }
+
+.formatting {
+  font-family: Helvetica;
+  border-color: black;
+  padding: 5px;
+  border-style: solid;
+}
+
+.Emph {
+  border-style: solid;
+}
+
+.special {
+  border-style: solid;
+}
+
 
 /* footerStyles */
 
