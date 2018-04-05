@@ -1,14 +1,14 @@
 /* headStyles */
-
+.myHead {
+  border-style: solid;
+}
 /* bodySytles */
 body {
   font-family: Helvetica;
 }
 
-.myHead {
-  border-style: solid;
-}
-
+/* html class tag
+ styles */
 .shell {
   font-family: Helvetica;
   background-color: navy;
@@ -25,7 +25,7 @@ body {
   border-style: solid;
 }
 
-.Emph {
+.emph {
   border-style: solid;
 }
 
@@ -33,6 +33,24 @@ body {
   border-style: solid;
 }
 
+.whitespace {
+  border-style: solid;
+}
+
+.imgInfo{
+  border-style: solid;
+}
+.img1{
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;;
+}
+
+.img2{
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;;
+}
 
 /* footerStyles */
 

@@ -7,7 +7,7 @@ var person = [
 ];
 
 function myFunction() {
-    document.getElementById("App").innerHTML += "Always be codeing!";
+    document.getElementById("App").innerHTML = "Always be codeing!";
 }
 
 myFunction();
